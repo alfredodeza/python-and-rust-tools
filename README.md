@@ -2,9 +2,21 @@
 
 This is the Introduction to Command-line tools with Python and Rust course. You'll learn several techniques and tools to build powerful command-line tools in both Python and Rust. From the fundamentals to more robust best-practices and advanced topics, you'll be able to start automating your daily tasks and build your own CLI tools.
 
-Building command-line tools to automate and simplify workflows is a foundational principle of DevOps. Regardless of your expertise in either Python or Rust, you'll be able to build on the examples in this course.
+Building command-line tools to automate and simplify workflows is a foundational principle of DevOps. Regardless of your expertise in either Python or Rust, you'll be able to build on the examples in this course. This course does not require you to be an expert in either languages, and most examples can be adapted to your own needs.
 
-This course does not require you to be an expert in either languages, and most examples can be adapted to your own needs.
+💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
+
+This is part 1 of the Python and Rust CLI tools course. There are 2 weeks in total:
+
+- [1: Resources](https://github.com/alfredodeza/python-and-rust-tools) 👈 You are here!
+- [2: Python CLI](https://github.com/alfredodeza/python-cli-example)
+- [3: Rust CLI](https://github.com/alfredodeza/rust-cli-example)
+
+
+🚀 **Watch the Video course**
+
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28037639VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/devops-command-line-tools/28037639VIDEOPAIML/ "Python and Rust CLI tools")
+
 
 ## Learning Objectives
 
