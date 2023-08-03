@@ -11,6 +11,8 @@ This is part 1 of the Python and Rust CLI tools course. There are 2 weeks in tot
 - [1: Resources](https://github.com/alfredodeza/python-and-rust-tools) 👈 You are here!
 - [2: Python CLI](https://github.com/alfredodeza/python-cli-example)
 - [3: Rust CLI](https://github.com/alfredodeza/rust-cli-example)
+- [4: Python Advanced CLI](https://github.com/alfredodeza/advanced-python-cli) 
+- [5: Rust Advanced CLI](https://github.com/alfredodeza/advanced-rust-cli)
 
 
 🚀 **Watch the Video course**
