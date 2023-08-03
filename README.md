@@ -48,6 +48,7 @@ This week you'll learn the basics of command-line tools, and how to build a simp
 
 ## Week 2: Advanced Command-line tool development
 
-## Week 3: Implementing testing and validation strategies for command-line tools
+In this week, you'll build on the basics of CLI tools and add more complex flags with values and sub-commands.
 
-## Week 4: Automation and Continuous Integration for distributing tools
+- [Advanced Python CLI](https://github.com/alfredodeza/advanced-python-cli) 
+- [Advanced Rust CLI](https://github.com/alfredodeza/advanced-rust-cli)
