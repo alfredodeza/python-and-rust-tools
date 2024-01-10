@@ -1,3 +1,5 @@
+# [![Coursera Course](./banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
+
 # Python and Rust CLI tools course
 
 This is the Introduction to Command-line tools with Python and Rust course. You'll learn several techniques and tools to build powerful command-line tools in both Python and Rust. From the fundamentals to more robust best-practices and advanced topics, you'll be able to start automating your daily tasks and build your own CLI tools.
